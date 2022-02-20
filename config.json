@@ -1,0 +1,17 @@
+{
+  "clientId": "Id del bot",
+
+  "parentOpened": "categoria ticket",
+
+  "assistenzaGenerale": "nome categoria",
+  "bugReport": "nome categoria",
+  "unban": "nome categoria",
+  "amministrazione": "nome categoria",
+
+  "roleSupport": "Ruolo che ha accesso alla gestione dei ticket",
+  
+  "logsTicket": "Canale Log",
+  "ticketChannel": "Canale Ticket",
+
+  "footerText": "aquariusmc.it"
+}
